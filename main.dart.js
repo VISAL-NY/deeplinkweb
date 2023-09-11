@@ -81337,7 +81337,7 @@ s($,"aIC","ata",()=>A.aBG())
 s($,"aFT","di",()=>A.f8(A.an9(A.a([1],t.t)).buffer,0,null).getInt8(0)===1?B.aj:B.yI)
 s($,"aJ8","Ua",()=>new A.Vz(A.x(t.N,A.aa("kE"))))
 s($,"aJs","aty",()=>{var q=t.yo
-return A.awA(A.a([A.ZO(new A.ah6(),null,"/",A.a([A.ZO(new A.ah7(),"confirm","confirm",B.im),A.ZO(new A.ah8(),"success","success",B.im)],q))],q))})
+return A.awA(A.a([A.ZO(new A.ah6(),null,"/:url",A.a([A.ZO(new A.ah7(),"confirm","confirm",B.im),A.ZO(new A.ah8(),"success","success",B.im)],q))],q))})
 s($,"aFO","arE",()=>new A.A())
 s($,"aJa","akV",()=>new A.Mx())
 s($,"aHk","asn",()=>A.eO(1,0,t.i))
